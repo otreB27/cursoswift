@@ -4,6 +4,7 @@ import UIKit
 
 /*
  Generar un rango de 0 a 100, incluye el número 100 en el rango.
+ 
  - Si el número es divisible entre 5, imprime: # el número  + “Bingo!!!”
  
  - Si el número es par, imprime: # el número + “par!!!”
